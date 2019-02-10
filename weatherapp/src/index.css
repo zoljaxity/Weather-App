@@ -1,0 +1,9 @@
+body {
+   padding: 200px;
+   background: url("img/bg.jpg") center center no-repeat;
+   font-family: sans-serif;
+ }
+ #container {
+   display: flex;
+   justify-content: center;
+ }
