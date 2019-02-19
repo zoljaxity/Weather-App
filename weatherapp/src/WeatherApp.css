@@ -35,6 +35,6 @@
  }
  ul.theForecast {
    color: #FFF;
-  background-color: #0066FF;
+  background-color: rgb(37, 37, 37);
    padding: 50;
  }
